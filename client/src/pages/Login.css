@@ -1,0 +1,24 @@
+.DataInLine {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.Login-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.Login-group {
+ margin: .5rem 5rem;
+}
+
+.SubmitButton {
+  width: 200px;
+  margin: auto;
+}
+
+.ButtonMargin {
+  width: 200px;
+  margin-top: 1rem;
+}
